@@ -19,8 +19,8 @@
 
 4, マクロ一覧が表示されるので、実行したいマクロを選択し実行。
 
-※「発注一覧」シートの作成は、[(https://github.com/SRL-1981/VBA_Tool_CreateOrderList/blob/main/Inventory_True.xlsx)](https://github.com/SRL-1981/VBA_Tool_CreateOrderList/blob/main/Inventory_True.xlsx)ファイルを使って作成します。
-なので今回は異常箇所の修正作業は省いた上でマクロを実行するので、マクロ実行回数は1回です。
+※「発注一覧」シートの作成は、添付している[(https://github.com/SRL-1981/VBA_Tool_CreateOrderList/blob/main/Inventory_True.xlsx)](https://github.com/SRL-1981/VBA_Tool_CreateOrderList/blob/main/Inventory_True.xlsx)ファイルを使って作成します。
+なので今回は異常箇所の修正作業は省いた上でマクロを実行するのでマクロ実行回数は1回です。
 
 「VBAコード詳細は別添付ファイル参照。」
 
