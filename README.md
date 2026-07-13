@@ -1,4 +1,4 @@
-# VBA_Tool_CreataOrderList
+# VBA_Tool_CreateOrderList
 既存の在庫データから不足分の在庫を補うための発注シートを作成する作業を自動化するツール。
 
 （CreateOrderList マクロ概要）
@@ -9,11 +9,11 @@
 商品ごとに必要在庫数を参照し、不足分の数量を確保するための「発注一覧」シートを作成。
 
 
-(CreataOrderList 実行手順)
+(CreateOrderList 実行手順)
 
 1, このリポジトリに添付されている拡張子「.xlsx」で終わるエクセルファイルをマクロ実行時に使用する任意のフォルダに格納する。
 
-2, このリポジトリに添付されている「CreataOrderList_GitHub.xlsm」ファイルをダウンロードし、名前をつけて保存。
+2, このリポジトリに添付されている「CreateOrderList_GitHub.xlsm」ファイルをダウンロードし、名前をつけて保存。
 
 3, 2で保存したマクロファイルを開き、コンテンツ有効化してから「Alt + F8」
 
